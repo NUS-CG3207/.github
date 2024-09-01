@@ -16,3 +16,4 @@ This is the first year this course material will be available on GitHub, so the 
 * [Dr Rajesh Panicker](https://cde.nus.edu.sg/ece/staff/rajesh-c-panicker/), [GitHub](https://github.com/rustyrisc)
 * [Neil Banerjee](https://cde.nus.edu.sg/ece/staff/neil-banerjee/), [GitHub](https://github.com/neilbaner)
 * Sugandha Tuteja, [GitHub](https://github.com/sugandha929)
+* Shahzor Ahmad (for the Getting Started manual)
