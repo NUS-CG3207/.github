@@ -13,7 +13,7 @@ This is the first year this course material will be available on GitHub, so the 
 
 ## Credits
 
-* [Dr Rajesh Panicker](https://cde.nus.edu.sg/ece/staff/rajesh-c-panicker/), [GitHub](https://github.com/rustyrisc)
+* [Dr Rajesh Panicker](https://cde.nus.edu.sg/ece/staff/rajesh-c-panicker/), [GitHub](https://github.com/r-panicker)
 * [Neil Banerjee](https://cde.nus.edu.sg/ece/staff/neil-banerjee/), [GitHub](https://github.com/neilbaner)
 * Sugandha Tuteja, [GitHub](https://github.com/sugandha929)
 * Shahzor Ahmad
